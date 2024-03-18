@@ -1,13 +1,8 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/_53rbxR4)
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=11007111&assignment_repo_type=AssignmentRepo)
-
-<hr>
-
 # House Budgeting Web App using PHP and MySQL
 
 ## Introduction: 
 
-The House Budgeting Web App is a web-based application that helps users to manage their household budgets effectively. This project was developed as a group academic project.
+The House Budgeting Web App is a web-based application that helps users to manage their household budgets effectively. The app is implemented using PHP and MySQL, and it includes features such as user database, displaying purchasing lists, modifying & displaying the budget, in addition to many other features.
 
 ## Objective: 
 
@@ -31,16 +26,17 @@ The House Budgeting Web App includes the following features:
 
 ## Technology Stack: 
 
-The App was implemented using the following technology stack:
+The App will be implemented using the following technology stack:
 
-•	PHP: The backend of the application was developed using PHP, since it provides excellent support for MySQL databases.
+•	PHP: The backend of the application will be developed using PHP, since it provides excellent support for MySQL databases.
 
-•	MySQL: The database of the application was developed using MySQL, since it’s fast, reliable and a RDBMS, making it an ideal choice for web-based applications.
+•	MySQL: The database of the application will be developed using MySQL, since it’s fast, reliable and a RDBMS, making it an ideal choice for web-based applications.
 
-•	HTML/CSS/Bootstrap: The frontend of the application was developed using HTML, CSS & Bootstrap, which are the standard for building web pages. 
+•	HTML/CSS/Bootstrap: The frontend of the application will be developed using HTML, CSS & Bootstrap, which are the standard for building web pages. 
 
-•	JavaScript: The application used JavaScript to provide dynamic features and interactivity. 
+•	JavaScript: The application will use JavaScript to provide dynamic features and interactivity. 
 
 ## Conclusion:
 
-The House Budgeting Web App is a useful tool for anyone who wants to manage their household budgets effectively. With its user-friendly interface and powerful features, the app will help users to track their expenses, set budgets, and monitor their spending habits. This project was developed as a group academic project, demonstrating the team's skills in web development and database management.
+The House Budgeting Web App is a useful tool for anyone who wants to manage their household budgets effectively. With its user-friendly interface and powerful features, the app will help users to track their expenses, set budgets, and monitor their spending habits. By implementing this web app using PHP and MySQL, users can access their data from anywhere and on any device.
+
